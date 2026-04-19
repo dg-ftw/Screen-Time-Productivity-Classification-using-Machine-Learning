@@ -1,0 +1,372 @@
+Timestamp,Age,Occupation,Average Daily Screentime (hours,Social Media usage (per day [hours]),How many times do you check your phone per day? (pickups),Do you use your phone right before sleeping? (30mins before),Average Sleep Duration (hours),Do you exercise regularly? (3+ days per week),Study/Work Hours per week,How productive do you consider yourself,Do you feel your phone usage affects your productivity?
+2026/03/27 3:00:26 PM GMT+5:30,16-20,Student,3-6,2-3,51-100,Yes,7+,No,6-15,3.0,Yes (Negatively)
+2026/03/27 3:00:35 PM GMT+5:30,16-20,Student,3-6,1-2,51-100,Yes,4-5,Yes,6-15,7.0,Yes (Negatively)
+2026/03/27 3:00:56 PM GMT+5:30,16-20,Student,9+,3-4,100+,Yes,4-5,Sometimes,<6,4.0,Yes (Negatively)
+2026/03/27 3:01:28 PM GMT+5:30,16-20,Student,3-6,0-1,21-50,Yes,7+,Yes,15-25,7.0,Yes (Negatively)
+2026/03/27 3:01:48 PM GMT+5:30,16-20,Student,3-6,3-4,51-100,Yes,5-6,Yes,6-15,4.0,Yes (Negatively)
+2026/03/27 3:02:10 PM GMT+5:30,,Student,6-9,2-3,21-50,Yes,7+,Yes,15-25,5.0,Yes (Negatively)
+2026/03/27 3:05:32 PM GMT+5:30,16-20,Student,9+,1-2,51-100,Yes,4-5,Sometimes,6-15,3.0,Maybe
+2026/03/27 3:05:43 PM GMT+5:30,16-20,Student,6-9,3-4,21-50,Yes,7+,No,6-15,5.0,Maybe
+2026/03/27 3:06:41 PM GMT+5:30,16-20,Student,3-6,2-3,51-100,Sometimes,7+,No,25-35,8.0,No
+2026/03/27 3:07:17 PM GMT+5:30,30+,Other,0-3,0-1,100+,Yes,<4,No,<6,10.0,No
+2026/03/27 3:11:11 PM GMT+5:30,30+,Full time working,0-3,2-3,0-20,Yes,7+,Yes,6-15,6.0,Maybe
+2026/03/27 3:11:46 PM GMT+5:30,16-20,Student,6-9,1-2,51-100,Yes,5-6,Yes,<6,2.0,Yes (Negatively)
+2026/03/27 3:11:58 PM GMT+5:30,16-20,Student,3-6,1-2,21-50,Yes,7+,Sometimes,15-25,4.0,Maybe
+2026/03/27 3:12:07 PM GMT+5:30,16-20,Student,3-6,1-2,21-50,Yes,5-6,Yes,6-15,5.0,Maybe
+2026/03/27 3:12:57 PM GMT+5:30,16-20,Student,0-3,2-3,51-100,Yes,7+,Sometimes,<6,4.0,Maybe
+2026/03/27 3:13:18 PM GMT+5:30,16-20,Student,6-9,4+,51-100,Yes,5-6,No,6-15,4.0,Yes (Negatively)
+2026/03/27 3:15:37 PM GMT+5:30,16-20,Student,3-6,0-1,100+,Yes,nan,No,nan,1.0,Maybe
+2026/03/27 3:19:38 PM GMT+5:30,16-20,Student,6-9,2-3,51-100,Yes,5-6,Yes,25-35,8.0,Maybe
+2026/03/27 3:20:42 PM GMT+5:30,16-20,Student,3-6,3-4,21-50,Sometimes,5-6,Sometimes,15-25,6.0,Maybe
+2026/03/27 3:21:59 PM GMT+5:30,30+,Other,9+,4+,100+,Yes,7+,Yes,35+,10.0,No
+2026/03/27 3:25:47 PM GMT+5:30,16-20,Student,6-9,4+,51-100,Yes,7+,Yes,6-15,6.0,Maybe
+2026/03/27 3:25:49 PM GMT+5:30,16-20,Student,9+,0-1,21-50,Yes,5-6,No,6-15,10.0,Yes (Positively)
+2026/03/27 3:28:38 PM GMT+5:30,16-20,Student,3-6,2-3,21-50,Yes,4-5,Yes,15-25,7.0,Maybe
+2026/03/27 3:29:37 PM GMT+5:30,30+,Full time working,0-3,0-1,0-20,Yes,7+,Yes,35+,8.0,No
+2026/03/27 3:30:14 PM GMT+5:30,16-20,Student,3-6,0-1,100+,Sometimes,7+,Sometimes,35+,6.0,Yes (Negatively)
+2026/03/27 3:31:50 PM GMT+5:30,16-20,Student,6-9,2-3,51-100,Sometimes,7+,Yes,15-25,6.0,Maybe
+2026/03/27 3:31:54 PM GMT+5:30,16-20,Student,0-3,0-1,21-50,Yes,5-6,No,15-25,8.0,Yes (Negatively)
+2026/03/27 3:32:09 PM GMT+5:30,16-20,Student,3-6,2-3,0-20,Yes,7+,Sometimes,6-15,5.0,Maybe
+2026/03/27 3:33:44 PM GMT+5:30,16-20,Student,0-3,2-3,21-50,Yes,5-6,No,25-35,6.0,Yes (Negatively)
+2026/03/27 3:34:08 PM GMT+5:30,16-20,Student,3-6,2-3,0-20,Yes,5-6,Yes,<6,6.0,Yes (Negatively)
+2026/03/27 3:36:54 PM GMT+5:30,30+,Full time working,6-9,1-2,51-100,Yes,7+,No,35+,8.0,Yes (Positively)
+2026/03/27 3:37:16 PM GMT+5:30,21-25,Student,6-9,4+,51-100,Yes,5-6,Yes,<6,4.0,Yes (Positively)
+2026/03/27 3:39:35 PM GMT+5:30,30+,Full time working,0-3,0-1,21-50,Yes,7+,Yes,6-15,8.0,Yes (Negatively)
+2026/03/27 3:40:00 PM GMT+5:30,16-20,Student,0-3,0-1,0-20,Sometimes,7+,Yes,<6,10.0,Yes (Positively)
+2026/03/27 3:40:50 PM GMT+5:30,21-25,Full time working,3-6,1-2,51-100,Sometimes,7+,Sometimes,35+,5.0,Yes (Negatively)
+2026/03/27 3:41:42 PM GMT+5:30,30+,Student,9+,4+,100+,Yes,<4,No,<6,10.0,No
+2026/03/27 3:42:22 PM GMT+5:30,16-20,Student,9+,4+,51-100,Yes,7+,No,<6,3.0,Yes (Negatively)
+2026/03/27 3:42:32 PM GMT+5:30,16-20,Student,3-6,2-3,21-50,Yes,7+,Yes,15-25,6.0,Yes (Negatively)
+2026/03/27 3:42:46 PM GMT+5:30,16-20,Student,0-3,2-3,21-50,Sometimes,7+,Yes,15-25,7.0,Yes (Positively)
+2026/03/27 3:42:47 PM GMT+5:30,26-30,Full time working,9+,0-1,51-100,Yes,7+,Sometimes,35+,7.0,Maybe
+2026/03/27 3:42:50 PM GMT+5:30,16-20,Student,3-6,2-3,51-100,Yes,7+,Yes,15-25,4.0,Yes (Negatively)
+2026/03/27 3:43:46 PM GMT+5:30,21-25,Part - time working,6-9,1-2,51-100,No,5-6,Sometimes,6-15,6.0,Yes (Positively)
+2026/03/27 3:47:29 PM GMT+5:30,16-20,Student,6-9,2-3,100+,Yes,7+,Sometimes,25-35,7.0,Yes (Negatively)
+2026/03/27 3:48:10 PM GMT+5:30,16-20,Student,3-6,2-3,51-100,Yes,5-6,No,6-15,1.0,Yes (Negatively)
+2026/03/27 3:50:15 PM GMT+5:30,16-20,Student,3-6,0-1,51-100,Yes,7+,Sometimes,15-25,4.0,Yes (Negatively)
+2026/03/27 3:55:14 PM GMT+5:30,16-20,Student,6-9,4+,21-50,Sometimes,7+,Sometimes,6-15,8.0,Maybe
+2026/03/27 3:57:20 PM GMT+5:30,16-20,Student,3-6,0-1,0-20,Sometimes,7+,Sometimes,<6,6.0,Maybe
+2026/03/27 4:01:57 PM GMT+5:30,16-20,Student,6-9,2-3,51-100,Yes,6-7,Yes,15-25,7.0,Yes (Negatively)
+2026/03/27 4:07:45 PM GMT+5:30,30+,Full time working,6-9,1-2,51-100,Yes,6-7,No,6-15,5.0,Maybe
+2026/03/27 4:08:10 PM GMT+5:30,21-25,Student,6-9,3-4,21-50,Yes,7+,No,6-15,3.0,Yes (Negatively)
+2026/03/27 4:16:08 PM GMT+5:30,30+,Full time working,9+,2-3,100+,Yes,5-6,Yes,35+,7.0,Yes (Negatively)
+2026/03/27 4:16:44 PM GMT+5:30,30+,Part - time working,3-6,3-4,21-50,Yes,7+,Sometimes,<6,10.0,No
+2026/03/27 4:17:37 PM GMT+5:30,21-25,Student,6-9,2-3,100+,Sometimes,7+,Yes,25-35,6.0,Yes (Positively)
+2026/03/27 4:18:18 PM GMT+5:30,16-20,Student,9+,0-1,21-50,Yes,4-5,Yes,6-15,2.0,Yes (Negatively)
+2026/03/27 4:21:43 PM GMT+5:30,16-20,Student,3-6,1-2,51-100,Yes,6-7,Sometimes,6-15,5.0,Yes (Negatively)
+2026/03/27 4:22:30 PM GMT+5:30,16-20,Student,6-9,2-3,0-20,Yes,5-6,,6-15,6.0,Yes (Negatively)
+2026/03/27 4:31:04 PM GMT+5:30,16-20,Student,6-9,2-3,21-50,Yes,6-7,Sometimes,25-35,6.0,Maybe
+2026/03/27 4:31:27 PM GMT+5:30,16-20,Student,6-9,2-3,21-50,Yes,6-7,No,<6,6.0,Maybe
+2026/03/27 4:46:48 PM GMT+5:30,16-20,Full time working,9+,2-3,51-100,Yes,6-7,No,25-35,9.0,Yes (Positively)
+2026/03/27 4:49:26 PM GMT+5:30,16-20,Student,3-6,2-3,21-50,Sometimes,6-7,Sometimes,6-15,4.0,Yes (Negatively)
+2026/03/27 4:50:04 PM GMT+5:30,21-25,Full time working,9+,2-3,100+,Yes,6-7,Yes,35+,9.0,Yes (Positively)
+2026/03/27 4:50:25 PM GMT+5:30,16-20,Student,3-6,1-2,51-100,Yes,6-7,Yes,6-15,8.0,Maybe
+2026/03/27 4:50:42 PM GMT+5:30,30+,Full time working,0-3,0-1,0-20,No,7+,No,35+,5.0,No
+2026/03/27 4:52:12 PM GMT+5:30,16-20,Student,6-9,3-4,100+,Sometimes,7+,No,15-25,9.0,Yes (Positively)
+2026/03/27 4:52:27 PM GMT+5:30,16-20,Student,6-9,1-2,51-100,Yes,7+,Yes,35+,8.0,Yes (Negatively)
+2026/03/27 4:58:41 PM GMT+5:30,16-20,Student,3-6,1-2,0-20,Yes,5-6,No,<6,6.0,Yes (Negatively)
+2026/03/27 5:00:02 PM GMT+5:30,16-20,Student,3-6,1-2,21-50,Yes,7+,Yes,6-15,8.0,Yes (Negatively)
+2026/03/27 5:04:27 PM GMT+5:30,16-20,Student,6-9,2-3,21-50,Sometimes,6-7,Yes,15-25,7.0,Maybe
+2026/03/27 5:09:00 PM GMT+5:30,16-20,Student,6-9,3-4,51-100,Yes,7+,Yes,6-15,5.0,Maybe
+2026/03/27 5:12:40 PM GMT+5:30,,Student,9+,4+,100+,Yes,6-7,Yes,6-15,6.0,Yes (Negatively)
+2026/03/27 5:26:47 PM GMT+5:30,16-20,Student,0-3,1-2,0-20,Yes,6-7,Yes,6-15,4.0,Yes (Negatively)
+2026/03/27 5:27:58 PM GMT+5:30,16-20,Student,3-6,4+,21-50,Yes,5-6,Yes,<6,7.0,Yes (Negatively)
+2026/03/27 5:54:28 PM GMT+5:30,30+,Full time working,3-6,2-3,21-50,Yes,6-7,No,35+,9.0,No
+2026/03/27 6:02:37 PM GMT+5:30,16-20,Student,3-6,0-1,0-20,Yes,6-7,Yes,<6,7.0,No
+2026/03/27 6:07:52 PM GMT+5:30,16-20,Student,3-6,1-2,51-100,Yes,7+,Yes,6-15,5.0,Yes (Negatively)
+2026/03/27 6:09:57 PM GMT+5:30,16-20,Student,6-9,2-3,51-100,Yes,6-7,No,6-15,4.0,Yes (Negatively)
+2026/03/27 6:13:15 PM GMT+5:30,30+,Student,0-3,4+,0-20,Sometimes,4-5,Sometimes,<6,1.0,Yes (Negatively)
+2026/03/27 6:15:42 PM GMT+5:30,16-20,Other,9+,4+,100+,Yes,7+,Yes,<6,1.0,Yes (Negatively)
+2026/03/27 6:16:13 PM GMT+5:30,30+,Student,6-9,4+,100+,Yes,7+,Sometimes,<6,1.0,Yes (Negatively)
+2026/03/27 6:17:10 PM GMT+5:30,26-30,Full time working,9+,4+,100+,Yes,4-5,No,<6,10.0,Yes (Negatively)
+2026/03/27 6:17:39 PM GMT+5:30,,,nan,nan,nan,,nan,,nan,10.0,
+2026/03/27 6:37:19 PM GMT+5:30,30+,Full time working,0-3,1-2,0-20,Yes,6-7,No,35+,4.0,Yes (Negatively)
+2026/03/27 7:17:03 PM GMT+5:30,16-20,Student,6-9,4+,51-100,Yes,7+,Sometimes,6-15,8.0,Yes (Negatively)
+2026/03/27 7:21:31 PM GMT+5:30,16-20,Student,3-6,0-1,21-50,Yes,7+,Yes,25-35,7.0,No
+2026/03/27 7:52:43 PM GMT+5:30,16-20,Student,3-6,1-2,51-100,Yes,6-7,No,15-25,7.0,Yes (Negatively)
+2026/03/27 7:54:37 PM GMT+5:30,16-20,Student,6-9,1-2,0-20,Sometimes,6-7,Yes,25-35,7.0,Yes (Positively)
+2026/03/27 8:07:13 PM GMT+5:30,16-20,Student,3-6,2-3,21-50,Yes,6-7,Sometimes,<6,4.0,Maybe
+2026/03/27 8:07:48 PM GMT+5:30,16-20,Student,3-6,1-2,21-50,Yes,6-7,Yes,6-15,5.0,Yes (Negatively)
+2026/03/27 8:09:30 PM GMT+5:30,16-20,Student,6-9,2-3,21-50,Yes,6-7,Sometimes,6-15,5.0,Yes (Negatively)
+2026/03/27 8:09:40 PM GMT+5:30,16-20,Other,9+,4+,51-100,Yes,4-5,Sometimes,<6,10.0,No
+2026/03/27 8:10:35 PM GMT+5:30,16-20,Student,3-6,2-3,0-20,Yes,5-6,No,25-35,5.0,Yes (Negatively)
+2026/03/27 8:13:01 PM GMT+5:30,16-20,Student,6-9,4+,21-50,Yes,6-7,Yes,<6,8.0,Yes (Negatively)
+2026/03/27 8:24:52 PM GMT+5:30,16-20,Student,3-6,4+,21-50,Sometimes,6-7,Yes,6-15,5.0,Yes (Negatively)
+2026/03/27 8:29:11 PM GMT+5:30,16-20,Student,3-6,2-3,0-20,Yes,4-5,Sometimes,15-25,5.0,Yes (Negatively)
+2026/03/27 8:45:52 PM GMT+5:30,16-20,Student,6-9,1-2,21-50,Yes,7+,No,6-15,6.0,Yes (Negatively)
+2026/03/27 8:54:13 PM GMT+5:30,16-20,Student,0-3,0-1,21-50,Yes,6-7,Yes,25-35,7.0,Yes (Negatively)
+2026/03/27 9:01:24 PM GMT+5:30,16-20,Student,6-9,2-3,51-100,Yes,7+,Yes,25-35,5.0,Yes (Negatively)
+2026/03/27 9:07:59 PM GMT+5:30,21-25,Student,3-6,0-1,21-50,Sometimes,7+,Yes,25-35,7.0,Maybe
+2026/03/27 9:16:54 PM GMT+5:30,16-20,Student,3-6,1-2,21-50,Yes,4-5,Sometimes,<6,5.0,Yes (Positively)
+2026/03/27 9:46:19 PM GMT+5:30,16-20,Student,6-9,4+,100+,Yes,6-7,Yes,25-35,8.0,Yes (Negatively)
+2026/03/27 9:50:23 PM GMT+5:30,16-20,Student,9+,4+,51-100,No,6-7,Sometimes,15-25,3.0,Yes (Negatively)
+2026/03/27 9:52:48 PM GMT+5:30,16-20,Student,6-9,3-4,21-50,Yes,4-5,No,<6,6.0,Maybe
+2026/03/27 9:59:48 PM GMT+5:30,16-20,Student,0-3,2-3,0-20,Yes,5-6,Sometimes,<6,5.0,Yes (Negatively)
+2026/03/27 10:00:08 PM GMT+5:30,16-20,Student,3-6,2-3,51-100,Yes,7+,Yes,6-15,6.0,Yes (Negatively)
+2026/03/27 11:57:49 PM GMT+5:30,16-20,Student,0-3,1-2,21-50,Yes,7+,Yes,<6,7.0,No
+2026/03/28 12:24:40 AM GMT+5:30,16-20,Student,3-6,1-2,21-50,Yes,4-5,Sometimes,<6,6.0,Maybe
+2026/03/28 12:51:14 AM GMT+5:30,16-20,Student,9+,4+,51-100,Yes,6-7,No,<6,1.0,Yes (Negatively)
+2026/03/28 2:00:26 AM GMT+5:30,16-20,Student,3-6,2-3,21-50,Yes,4-5,No,35+,8.0,Maybe
+2026/03/28 11:30:23 AM GMT+5:30,16-20,Student,0-3,1-2,21-50,Yes,5-6,Sometimes,6-15,5.0,Maybe
+2026/03/28 11:39:01 AM GMT+5:30,16-20,Student,3-6,1-2,51-100,Yes,6-7,No,<6,3.0,Maybe
+2026/03/29 12:49:46 PM GMT+5:30,16-20,Student,0-3,1-2,21-50,Yes,7+,Yes,<6,5.0,Maybe
+2026/03/29 2:09:40 PM GMT+5:30,16-20,Student,0-3,2-3,51-100,Yes,5-6,Yes,<6,7.0,No
+2026/03/30 2:19:47 PM GMT+5:30,16-20,Student,3-6,2-3,51-100,Sometimes,4-5,No,6-15,8.0,Maybe
+2026/03/30 9:32:52 PM GMT+5:30,16-20,Student,3-6,2-3,51-100,Yes,4-5,Yes,6-15,6.0,Yes (Negatively)
+2026/04/04 8:34:41 PM GMT+5:30,26-30,Full time working,6-9,1-2,51-100,Yes,6-7,Yes,35+,8.0,Yes (Negatively)
+2026/04/04 8:35:38 PM GMT+5:30,21-25,Student,9+,4+,51-100,Yes,4-5,No,6-15,4.0,Yes (Negatively)
+2026/04/04 8:36:16 PM GMT+5:30,30+,Full time working,0-3,0-1,0-20,No,7+,Sometimes,35+,10.0,Yes (Negatively)
+2026/04/04 8:36:55 PM GMT+5:30,30+,Full time working,0-3,0-1,0-20,Sometimes,7+,No,35+,10.0,Yes (Negatively)
+2026/04/04 8:37:29 PM GMT+5:30,30+,Full time working,6-9,3-4,51-100,Yes,7+,Yes,35+,,Yes (Negatively)
+2026/04/04 10:26:01 PM GMT+5:30,21-25,Part - time working,9+,4+,100+,Yes,4-5,No,6-15,1.0,Yes (Negatively)
+2026/04/04 10:33:24 PM GMT+5:30,30+,Full time working,0-3,0-1,0-20,No,7+,Yes,35+,10.0,Yes (Negatively)
+2026/04/04 10:34:10 PM GMT+5:30,21-25,Student,9+,2-3,21-50,Yes,6-7,Sometimes,35+,8.0,Yes (Negatively)
+2026/04/04 10:40:02 PM GMT+5:30,26-30,Full time working,9+,2-3,51-100,Yes,7+,No,35+,10.0,Yes (Negatively)
+2026/04/08 1:58:48 PM GMT+5:30,16-20,Student,3-6,3-4,51-100,Yes,6-7,Yes,15-25,4.0,Yes (Negatively)
+2026/04/08 1:59:17 PM GMT+5:30,21-25,Part - time working,0-3,1-2,21-50,Sometimes,6-7,Yes,25-35,8.0,No
+2026/04/08 1:59:49 PM GMT+5:30,26-30,Full time working,0-3,1-2,51-100,Sometimes,7+,Yes,35+,8.0,Maybe
+2026/04/08 2:00:19 PM GMT+5:30,16-20,Student,9+,4+,100+,Yes,4-5,No,<6,3.0,Yes (Negatively)
+2026/04/08 2:00:44 PM GMT+5:30,16-20,Student,0-3,0-1,0-20,No,7+,Yes,35+,10.0,No
+2026/04/08 2:01:06 PM GMT+5:30,21-25,Part - time working,3-6,0-1,100+,Yes,5-6,Yes,25-35,6.0,Yes (Positively)
+2026/04/08 2:01:33 PM GMT+5:30,30+,Full time working,0-3,0-1,21-50,No,7+,Yes,35+,10.0,Yes (Positively)
+2026/04/08 2:02:04 PM GMT+5:30,21-25,Full time working,3-6,3-4,21-50,No,6-7,No,6-15,4.0,No
+2026/04/08 2:02:24 PM GMT+5:30,30+,Other,9+,4+,100+,Sometimes,7+,Sometimes,35+,10.0,Maybe
+2026/04/08 2:02:48 PM GMT+5:30,16-20,Student,0-3,0-1,0-20,Yes,4-5,Yes,<6,5.0,Yes (Negatively)
+2026/04/08 2:03:14 PM GMT+5:30,26-30,Part - time working,6-9,2-3,21-50,No,5-6,No,15-25,5.0,Yes (Positively)
+2026/04/08 2:03:43 PM GMT+5:30,16-20,Full time working,0-3,3-4,0-20,Sometimes,4-5,Sometimes,6-15,7.0,Yes (Positively)
+2026/04/16 11:37:57 AM GMT+5:30,21-25,Student,9+,4+,100+,Yes,4-5,No,6-15,1.0,Yes (Negatively)
+2026/04/16 11:40:07 AM GMT+5:30,16-20,Student,9+,2-3,21-50,Yes,7+,Yes,15-25,8.0,Yes (Negatively)
+2026/04/16 11:40:37 AM GMT+5:30,30+,Full time working,6-9,0-1,100+,Yes,7+,Sometimes,35+,10.0,Yes (Positively)
+2026/04/16 11:41:43 AM GMT+5:30,16-20,Student,9+,4+,100+,Yes,6-7,Yes,6-15,7.0,Yes (Negatively)
+2026/04/16 11:42:54 AM GMT+5:30,30+,Part - time working,9+,4+,100+,Yes,7+,No,<6,1.0,Yes (Negatively)
+2026/04/16 11:45:34 AM GMT+5:30,,Full time working,6-9,1-2,51-100,No,7+,Sometimes,25-35,4.0,No
+2026/04/16 11:46:00 AM GMT+5:30,26-30,Other,3-6,2-3,21-50,Sometimes,5-6,Yes,6-15,1.0,Yes (Positively)
+2026/04/16 11:46:11 AM GMT+5:30,26-30,Other,9+,2-3,51-100,Sometimes,4-5,No,35+,7.0,No
+2026/04/16 11:47:18 AM GMT+5:30,26-30,Full time working,3-6,0-1,51-100,No,7+,Yes,35+,10.0,Yes (Positively)
+2026/04/16 11:47:31 AM GMT+5:30,16-20,Part - time working,3-6,4+,21-50,No,7+,No,<6,7.0,Maybe
+2026/04/16 11:47:42 AM GMT+5:30,26-30,Part - time working,9+,4+,21-50,No,6-7,Sometimes,25-35,2.0,Maybe
+2026/04/16 11:47:55 AM GMT+5:30,16-20,Part - time working,9+,1-2,21-50,Sometimes,4-5,No,6-15,8.0,No
+2026/04/16 11:48:01 AM GMT+5:30,21-25,Full time working,6-9,1-2,21-50,Yes,5-6,No,35+,7.0,Yes (Negatively)
+2026/04/16 11:48:17 AM GMT+5:30,30+,Student,6-9,1-2,100+,Sometimes,4-5,Sometimes,6-15,1.0,No
+2026/04/16 11:48:30 AM GMT+5:30,26-30,Student,0-3,0-1,51-100,Sometimes,4-5,No,<6,2.0,Yes (Positively)
+2026/04/16 11:50:47 AM GMT+5:30,30+,Full time working,6-9,0-1,100+,No,7+,No,15-25,10.0,Yes (Positively)
+2026/04/16 11:51:32 AM GMT+5:30,16-20,Student,9+,4+,51-100,Yes,7+,Yes,6-15,10.0,Yes (Negatively)
+2026/04/16 11:55:01 AM GMT+5:30,16-20,Student,9+,4+,100+,Yes,7+,Yes,<6,6.0,Yes (Negatively)
+2026/04/16 12:12:06 PM GMT+5:30,,Student,0-3,3-4,51-100,Sometimes,4-5,No,6-15,4.0,Yes (Negatively)
+2026/04/16 12:12:19 PM GMT+5:30,30+,Student,6-9,3-4,51-100,Yes,4-5,Yes,35+,8.0,Maybe
+2026/04/16 12:12:37 PM GMT+5:30,26-30,Other,6-9,4+,0-20,Sometimes,4-5,Sometimes,<6,1.0,Yes (Positively)
+2026/04/16 12:12:48 PM GMT+5:30,16-20,Part - time working,6-9,3-4,100+,Yes,4-5,Sometimes,35+,4.0,Yes (Positively)
+2026/04/16 12:13:01 PM GMT+5:30,30+,Student,6-9,0-1,100+,Sometimes,4-5,Yes,35+,1.0,Maybe
+2026/04/16 12:13:17 PM GMT+5:30,16-20,Other,9+,1-2,21-50,Yes,7+,No,35+,10.0,Yes (Negatively)
+2026/04/16 12:13:30 PM GMT+5:30,26-30,Other,6-9,0-1,100+,Sometimes,5-6,Sometimes,25-35,9.0,Yes (Positively)
+2026/04/16 12:13:54 PM GMT+5:30,26-30,Full time working,0-3,0-1,51-100,Sometimes,5-6,No,<6,10.0,Maybe
+2026/04/16 12:19:40 PM GMT+5:30,30+,Other,9+,3-4,0-20,Sometimes,5-6,Sometimes,<6,1.0,No
+2026/04/16 12:20:01 PM GMT+5:30,16-20,Full time working,3-6,2-3,0-20,Yes,7+,Yes,35+,4.0,Maybe
+2026/04/16 12:20:38 PM GMT+5:30,26-30,Part - time working,6-9,2-3,0-20,Yes,6-7,Yes,<6,5.0,No
+2026/04/16 12:21:02 PM GMT+5:30,16-20,Part - time working,6-9,3-4,0-20,Sometimes,7+,Yes,<6,9.0,Yes (Negatively)
+2026/04/16 12:21:18 PM GMT+5:30,26-30,Part - time working,0-3,3-4,0-20,Yes,4-5,Yes,35+,1.0,No
+2026/04/16 12:22:29 PM GMT+5:30,30+,Student,9+,0-1,100+,Sometimes,4-5,Yes,<6,10.0,No
+2026/04/16 12:22:50 PM GMT+5:30,26-30,Full time working,0-3,2-3,0-20,Yes,4-5,Yes,35+,1.0,Maybe
+2026/04/16 12:23:27 PM GMT+5:30,16-20,Other,0-3,1-2,21-50,No,6-7,Sometimes,25-35,8.0,Yes (Negatively)
+2026/04/16 12:23:45 PM GMT+5:30,30+,Other,6-9,2-3,21-50,Yes,5-6,Yes,<6,3.0,Maybe
+2026/04/16 12:24:02 PM GMT+5:30,21-25,Full time working,9+,0-1,0-20,Yes,7+,Sometimes,<6,6.0,No
+2026/04/16 12:24:19 PM GMT+5:30,26-30,Part - time working,0-3,2-3,0-20,Sometimes,4-5,Sometimes,25-35,7.0,Yes (Positively)
+2026/04/16 12:24:36 PM GMT+5:30,26-30,Student,0-3,3-4,0-20,Yes,6-7,Yes,35+,2.0,Yes (Positively)
+2026/04/16 12:24:53 PM GMT+5:30,21-25,Student,6-9,3-4,0-20,No,4-5,Yes,25-35,10.0,Yes (Positively)
+2026/04/16 12:25:10 PM GMT+5:30,21-25,Student,3-6,2-3,100+,No,5-6,Yes,6-15,1.0,Maybe
+2026/04/16 12:25:27 PM GMT+5:30,21-25,Other,0-3,1-2,51-100,Sometimes,4-5,Sometimes,35+,2.0,Yes (Positively)
+2026/04/16 12:25:46 PM GMT+5:30,26-30,Full time working,6-9,3-4,100+,Yes,6-7,Yes,15-25,5.0,Maybe
+2026/04/16 12:26:18 PM GMT+5:30,16-20,Full time working,0-3,2-3,0-20,Yes,5-6,Sometimes,15-25,1.0,No
+2026/04/16 12:26:35 PM GMT+5:30,16-20,Other,6-9,3-4,0-20,No,7+,Sometimes,<6,5.0,Yes (Negatively)
+2026/04/16 12:26:52 PM GMT+5:30,30+,Part - time working,9+,4+,51-100,Yes,7+,No,<6,9.0,Yes (Negatively)
+2026/04/16 12:27:09 PM GMT+5:30,16-20,Other,0-3,2-3,51-100,Yes,4-5,Yes,6-15,9.0,No
+2026/04/16 12:27:26 PM GMT+5:30,21-25,Student,6-9,4+,21-50,Yes,6-7,Sometimes,<6,1.0,No
+2026/04/16 12:27:44 PM GMT+5:30,16-20,Part - time working,3-6,3-4,51-100,Sometimes,5-6,No,25-35,4.0,Maybe
+2026/04/16 12:28:00 PM GMT+5:30,26-30,Full time working,3-6,0-1,0-20,No,5-6,Sometimes,<6,9.0,No
+2026/04/16 12:28:19 PM GMT+5:30,16-20,Part - time working,9+,3-4,21-50,Yes,4-5,Yes,25-35,6.0,Maybe
+2026/04/16 12:28:35 PM GMT+5:30,21-25,Student,9+,1-2,21-50,No,6-7,No,25-35,1.0,No
+2026/04/16 12:28:52 PM GMT+5:30,26-30,Full time working,0-3,4+,21-50,Sometimes,5-6,Sometimes,<6,7.0,No
+2026/04/16 12:29:09 PM GMT+5:30,16-20,Full time working,0-3,3-4,21-50,No,4-5,No,15-25,1.0,No
+2026/04/16 12:29:26 PM GMT+5:30,30+,Other,0-3,4+,0-20,Yes,4-5,No,<6,10.0,Yes (Positively)
+2026/04/16 12:29:43 PM GMT+5:30,16-20,Part - time working,3-6,0-1,51-100,Yes,6-7,Sometimes,25-35,10.0,No
+2026/04/16 12:30:00 PM GMT+5:30,26-30,Other,0-3,0-1,100+,Sometimes,5-6,Sometimes,<6,8.0,No
+2026/04/16 12:30:17 PM GMT+5:30,26-30,Student,0-3,0-1,100+,Sometimes,4-5,Sometimes,6-15,2.0,Yes (Negatively)
+2026/04/16 12:30:51 PM GMT+5:30,16-20,Full time working,0-3,2-3,0-20,No,4-5,Yes,25-35,6.0,No
+2026/04/16 12:31:08 PM GMT+5:30,30+,Part - time working,6-9,3-4,51-100,Sometimes,5-6,No,25-35,2.0,No
+2026/04/16 12:31:25 PM GMT+5:30,30+,Student,6-9,0-1,21-50,No,5-6,Yes,35+,2.0,Yes (Positively)
+2026/04/16 12:31:42 PM GMT+5:30,21-25,Full time working,0-3,3-4,100+,No,7+,No,15-25,5.0,Yes (Negatively)
+2026/04/16 12:32:03 PM GMT+5:30,16-20,Part - time working,0-3,0-1,100+,Yes,4-5,Sometimes,nan,3.0,Maybe
+2026/04/16 12:32:35 PM GMT+5:30,21-25,Full time working,6-9,3-4,51-100,Yes,4-5,No,6-15,2.0,Yes (Positively)
+2026/04/16 12:32:51 PM GMT+5:30,16-20,Other,3-6,4+,21-50,No,4-5,Yes,6-15,7.0,No
+2026/04/16 12:33:09 PM GMT+5:30,21-25,Student,6-9,1-2,0-20,Sometimes,4-5,Yes,35+,3.0,No
+2026/04/16 12:33:28 PM GMT+5:30,16-20,Part - time working,9+,3-4,51-100,No,5-6,No,25-35,3.0,No
+2026/04/16 12:34:00 PM GMT+5:30,26-30,Student,3-6,3-4,0-20,Sometimes,7+,Sometimes,<6,7.0,Maybe
+2026/04/16 12:34:17 PM GMT+5:30,21-25,Part - time working,3-6,3-4,51-100,No,5-6,No,<6,4.0,Yes (Positively)
+2026/04/16 12:34:34 PM GMT+5:30,16-20,Part - time working,3-6,0-1,100+,No,7+,Sometimes,25-35,7.0,No
+2026/04/16 12:34:51 PM GMT+5:30,30+,Other,6-9,0-1,0-20,No,7+,Yes,35+,8.0,No
+2026/04/16 12:35:08 PM GMT+5:30,26-30,Student,0-3,1-2,51-100,Yes,4-5,No,6-15,10.0,Yes (Positively)
+2026/04/16 12:35:25 PM GMT+5:30,21-25,Full time working,0-3,4+,21-50,Sometimes,6-7,Yes,6-15,2.0,Yes (Positively)
+2026/04/16 12:35:42 PM GMT+5:30,21-25,Full time working,6-9,0-1,51-100,Sometimes,4-5,Yes,<6,4.0,Yes (Negatively)
+2026/04/16 12:36:00 PM GMT+5:30,30+,Part - time working,6-9,3-4,100+,No,4-5,Yes,15-25,10.0,Yes (Positively)
+2026/04/16 12:36:16 PM GMT+5:30,16-20,Part - time working,3-6,2-3,51-100,Sometimes,5-6,Yes,<6,3.0,No
+2026/04/16 12:36:33 PM GMT+5:30,26-30,Student,6-9,1-2,0-20,Yes,5-6,No,6-15,5.0,Yes (Positively)
+2026/04/16 12:36:50 PM GMT+5:30,30+,Student,9+,2-3,21-50,No,7+,Yes,35+,4.0,Maybe
+2026/04/16 12:37:08 PM GMT+5:30,16-20,Full time working,6-9,0-1,100+,Sometimes,6-7,Yes,25-35,6.0,Yes (Positively)
+2026/04/16 12:37:25 PM GMT+5:30,21-25,Part - time working,9+,4+,100+,Yes,4-5,Sometimes,35+,7.0,Maybe
+2026/04/16 12:37:32 PM GMT+5:30,16-20,Full time working,3-6,4+,21-50,Yes,6-7,Yes,6-15,1.0,No
+2026/04/16 12:37:42 PM GMT+5:30,30+,Other,0-3,2-3,21-50,No,4-5,No,25-35,2.0,Maybe
+2026/04/16 12:37:59 PM GMT+5:30,21-25,Student,9+,4+,100+,Yes,7+,Sometimes,35+,4.0,Yes (Negatively)
+2026/04/16 12:38:16 PM GMT+5:30,21-25,Student,3-6,0-1,100+,No,4-5,Sometimes,6-15,7.0,Yes (Negatively)
+2026/04/16 12:38:33 PM GMT+5:30,30+,Full time working,6-9,0-1,51-100,No,6-7,Yes,25-35,6.0,Maybe
+2026/04/16 12:38:50 PM GMT+5:30,21-25,Student,9+,3-4,0-20,Yes,4-5,Yes,15-25,9.0,Yes (Negatively)
+2026/04/16 12:39:08 PM GMT+5:30,21-25,Student,0-3,1-2,21-50,Sometimes,6-7,No,35+,7.0,No
+2026/04/16 12:39:24 PM GMT+5:30,30+,Part - time working,6-9,4+,21-50,Yes,7+,No,15-25,10.0,Yes (Positively)
+2026/04/16 12:39:41 PM GMT+5:30,16-20,Part - time working,9+,0-1,0-20,No,5-6,Yes,35+,6.0,Yes (Positively)
+2026/04/16 12:39:58 PM GMT+5:30,26-30,Other,3-6,0-1,0-20,No,4-5,Yes,15-25,3.0,Yes (Negatively)
+2026/04/16 12:40:15 PM GMT+5:30,26-30,Part - time working,6-9,1-2,51-100,No,4-5,Yes,15-25,5.0,Yes (Positively)
+2026/04/16 12:40:32 PM GMT+5:30,16-20,Other,0-3,1-2,51-100,No,4-5,Sometimes,15-25,3.0,Maybe
+2026/04/16 12:40:49 PM GMT+5:30,21-25,Part - time working,9+,3-4,51-100,Sometimes,7+,Yes,25-35,2.0,Yes (Positively)
+2026/04/16 12:41:06 PM GMT+5:30,16-20,Other,9+,3-4,100+,Sometimes,5-6,Sometimes,<6,3.0,Yes (Negatively)
+2026/04/16 12:41:23 PM GMT+5:30,21-25,Other,6-9,0-1,51-100,No,5-6,Sometimes,35+,4.0,Yes (Positively)
+2026/04/16 12:41:41 PM GMT+5:30,21-25,Other,3-6,3-4,21-50,No,5-6,Sometimes,<6,8.0,Yes (Negatively)
+2026/04/16 12:41:58 PM GMT+5:30,16-20,Part - time working,9+,1-2,100+,Yes,6-7,No,15-25,2.0,Maybe
+2026/04/16 12:42:15 PM GMT+5:30,16-20,Full time working,3-6,3-4,51-100,No,4-5,Sometimes,35+,4.0,No
+2026/04/16 12:42:32 PM GMT+5:30,30+,Student,0-3,4+,51-100,No,7+,Sometimes,25-35,1.0,Yes (Negatively)
+2026/04/16 12:42:49 PM GMT+5:30,30+,Student,0-3,3-4,0-20,No,4-5,No,15-25,1.0,Yes (Positively)
+2026/04/16 12:43:06 PM GMT+5:30,30+,Other,3-6,4+,0-20,Sometimes,7+,Sometimes,35+,8.0,Yes (Positively)
+2026/04/16 12:43:23 PM GMT+5:30,21-25,Other,3-6,4+,51-100,Yes,7+,Sometimes,6-15,7.0,Yes (Negatively)
+2026/04/16 12:43:40 PM GMT+5:30,30+,Part - time working,3-6,4+,51-100,Yes,4-5,Yes,25-35,1.0,Yes (Positively)
+2026/04/16 12:43:57 PM GMT+5:30,30+,Student,3-6,0-1,0-20,Yes,7+,Sometimes,6-15,9.0,Yes (Positively)
+2026/04/16 12:44:15 PM GMT+5:30,30+,Student,3-6,4+,21-50,Sometimes,4-5,No,<6,1.0,Maybe
+2026/04/16 12:44:31 PM GMT+5:30,16-20,Part - time working,3-6,0-1,0-20,Yes,5-6,No,35+,10.0,No
+2026/04/16 12:44:49 PM GMT+5:30,21-25,Other,3-6,0-1,51-100,No,5-6,No,<6,1.0,Maybe
+2026/04/16 12:45:06 PM GMT+5:30,30+,Part - time working,9+,4+,100+,No,7+,No,35+,4.0,Yes (Positively)
+2026/04/16 12:45:23 PM GMT+5:30,21-25,Full time working,9+,4+,100+,No,4-5,Sometimes,25-35,7.0,Yes (Negatively)
+2026/04/16 12:45:40 PM GMT+5:30,26-30,Part - time working,0-3,4+,0-20,No,4-5,Yes,25-35,1.0,Maybe
+2026/04/16 12:45:57 PM GMT+5:30,30+,Part - time working,3-6,2-3,51-100,Sometimes,7+,Yes,<6,9.0,Maybe
+2026/04/16 12:46:14 PM GMT+5:30,21-25,Other,6-9,1-2,21-50,No,4-5,Sometimes,15-25,10.0,No
+2026/04/16 12:46:31 PM GMT+5:30,21-25,Student,9+,2-3,21-50,No,4-5,No,6-15,9.0,No
+2026/04/16 12:46:48 PM GMT+5:30,26-30,Other,0-3,0-1,51-100,Yes,6-7,Yes,<6,9.0,Maybe
+2026/04/16 12:47:05 PM GMT+5:30,16-20,Part - time working,0-3,3-4,21-50,Sometimes,6-7,Yes,35+,5.0,Maybe
+2026/04/16 12:47:22 PM GMT+5:30,16-20,Student,3-6,3-4,21-50,Yes,5-6,Sometimes,<6,6.0,Yes (Positively)
+2026/04/16 12:47:39 PM GMT+5:30,16-20,Full time working,6-9,4+,51-100,Yes,5-6,Yes,25-35,8.0,Yes (Negatively)
+2026/04/16 12:47:57 PM GMT+5:30,21-25,Full time working,9+,3-4,51-100,Sometimes,6-7,Yes,<6,2.0,Yes (Positively)
+2026/04/16 12:48:13 PM GMT+5:30,30+,Other,3-6,0-1,51-100,Sometimes,5-6,Yes,6-15,2.0,Maybe
+2026/04/16 12:48:30 PM GMT+5:30,26-30,Other,0-3,1-2,100+,Sometimes,7+,Sometimes,<6,4.0,Maybe
+2026/04/16 12:48:48 PM GMT+5:30,21-25,Full time working,3-6,0-1,51-100,Yes,5-6,No,15-25,1.0,Yes (Negatively)
+2026/04/16 12:49:04 PM GMT+5:30,30+,Full time working,3-6,4+,0-20,Sometimes,7+,Sometimes,15-25,10.0,Yes (Negatively)
+2026/04/16 12:49:22 PM GMT+5:30,21-25,Student,3-6,1-2,51-100,No,7+,Yes,6-15,8.0,No
+2026/04/16 12:49:39 PM GMT+5:30,16-20,Full time working,6-9,1-2,51-100,Yes,4-5,Sometimes,<6,2.0,Yes (Positively)
+2026/04/16 12:49:56 PM GMT+5:30,16-20,Student,3-6,1-2,51-100,No,6-7,Yes,<6,7.0,Yes (Positively)
+2026/04/16 12:50:13 PM GMT+5:30,21-25,Full time working,0-3,0-1,51-100,No,4-5,Sometimes,6-15,9.0,No
+2026/04/16 12:50:30 PM GMT+5:30,16-20,Other,6-9,1-2,51-100,Yes,7+,Sometimes,25-35,4.0,Maybe
+2026/04/16 12:50:47 PM GMT+5:30,26-30,Full time working,9+,1-2,100+,Yes,4-5,No,35+,3.0,Maybe
+2026/04/16 12:51:04 PM GMT+5:30,26-30,Student,9+,4+,51-100,Sometimes,4-5,No,25-35,7.0,No
+2026/04/16 12:51:21 PM GMT+5:30,26-30,Student,3-6,3-4,0-20,No,6-7,Sometimes,35+,9.0,Yes (Negatively)
+2026/04/16 12:51:38 PM GMT+5:30,21-25,Part - time working,9+,1-2,21-50,Yes,4-5,Sometimes,25-35,9.0,No
+2026/04/16 12:51:55 PM GMT+5:30,21-25,Student,6-9,4+,21-50,Sometimes,4-5,No,25-35,5.0,No
+2026/04/16 12:52:13 PM GMT+5:30,30+,Other,6-9,3-4,51-100,Sometimes,4-5,No,15-25,1.0,Yes (Positively)
+2026/04/16 12:52:29 PM GMT+5:30,30+,Full time working,6-9,0-1,100+,Yes,7+,Sometimes,35+,10.0,Maybe
+2026/04/16 12:52:47 PM GMT+5:30,26-30,Full time working,6-9,1-2,51-100,Yes,6-7,Yes,<6,1.0,No
+2026/04/16 12:53:03 PM GMT+5:30,26-30,Part - time working,9+,0-1,100+,Yes,6-7,Sometimes,15-25,7.0,Yes (Negatively)
+2026/04/16 12:53:20 PM GMT+5:30,21-25,Student,0-3,2-3,51-100,Yes,4-5,Yes,35+,8.0,Maybe
+2026/04/16 12:53:38 PM GMT+5:30,30+,Part - time working,9+,4+,21-50,Sometimes,7+,Sometimes,<6,6.0,No
+2026/04/16 12:53:55 PM GMT+5:30,21-25,Other,6-9,0-1,100+,Yes,4-5,Yes,25-35,3.0,Yes (Positively)
+2026/04/16 12:54:12 PM GMT+5:30,30+,Full time working,3-6,1-2,0-20,Yes,4-5,Sometimes,<6,10.0,Yes (Negatively)
+2026/04/16 12:54:29 PM GMT+5:30,26-30,Other,6-9,0-1,100+,Sometimes,7+,Sometimes,25-35,7.0,No
+2026/04/16 12:54:46 PM GMT+5:30,26-30,Other,3-6,0-1,100+,Yes,4-5,Yes,<6,1.0,Maybe
+2026/04/16 12:55:03 PM GMT+5:30,21-25,Other,0-3,1-2,51-100,No,7+,Sometimes,25-35,9.0,Maybe
+2026/04/16 12:55:21 PM GMT+5:30,16-20,Part - time working,6-9,1-2,0-20,Yes,4-5,Yes,35+,6.0,No
+2026/04/16 12:55:37 PM GMT+5:30,16-20,Student,3-6,3-4,100+,Yes,7+,Yes,15-25,6.0,No
+2026/04/16 12:55:54 PM GMT+5:30,30+,Part - time working,6-9,1-2,51-100,No,5-6,No,35+,2.0,Maybe
+2026/04/16 12:56:11 PM GMT+5:30,21-25,Other,3-6,0-1,21-50,Sometimes,7+,No,<6,7.0,Maybe
+2026/04/16 12:56:29 PM GMT+5:30,26-30,Part - time working,0-3,1-2,21-50,No,7+,Sometimes,35+,9.0,No
+2026/04/16 12:56:46 PM GMT+5:30,16-20,Student,6-9,4+,100+,Yes,5-6,No,15-25,1.0,Yes (Negatively)
+2026/04/16 12:57:03 PM GMT+5:30,26-30,Student,0-3,1-2,51-100,Yes,4-5,No,35+,2.0,Yes (Positively)
+2026/04/16 12:57:20 PM GMT+5:30,26-30,Other,3-6,3-4,0-20,Sometimes,7+,Sometimes,25-35,1.0,Yes (Positively)
+2026/04/16 12:57:37 PM GMT+5:30,30+,Other,0-3,2-3,0-20,Sometimes,4-5,No,<6,5.0,No
+2026/04/16 12:57:54 PM GMT+5:30,16-20,Full time working,3-6,4+,100+,No,5-6,Yes,35+,2.0,Yes (Negatively)
+2026/04/16 12:58:11 PM GMT+5:30,26-30,Full time working,6-9,0-1,51-100,Yes,4-5,Yes,35+,8.0,Maybe
+2026/04/16 12:58:28 PM GMT+5:30,21-25,Part - time working,9+,4+,51-100,Yes,7+,Sometimes,15-25,7.0,No
+2026/04/16 12:58:46 PM GMT+5:30,30+,Part - time working,6-9,4+,51-100,No,7+,Sometimes,6-15,10.0,Maybe
+2026/04/16 12:59:03 PM GMT+5:30,21-25,Full time working,3-6,1-2,51-100,Yes,4-5,Sometimes,35+,10.0,Yes (Positively)
+2026/04/16 12:59:21 PM GMT+5:30,21-25,Part - time working,6-9,1-2,100+,Yes,4-5,Sometimes,6-15,10.0,Maybe
+2026/04/16 12:59:53 PM GMT+5:30,26-30,Student,6-9,2-3,51-100,Yes,4-5,Yes,6-15,5.0,Yes (Negatively)
+2026/04/16 1:00:11 PM GMT+5:30,16-20,Part - time working,6-9,1-2,51-100,Yes,5-6,Sometimes,6-15,9.0,Yes (Negatively)
+2026/04/16 1:00:27 PM GMT+5:30,26-30,Full time working,9+,1-2,100+,Yes,5-6,Yes,15-25,4.0,No
+2026/04/16 1:00:45 PM GMT+5:30,16-20,Student,6-9,0-1,0-20,Sometimes,5-6,Yes,<6,6.0,No
+2026/04/16 1:01:01 PM GMT+5:30,21-25,Part - time working,6-9,3-4,0-20,No,7+,No,15-25,2.0,Yes (Positively)
+2026/04/16 1:01:19 PM GMT+5:30,16-20,Other,9+,0-1,21-50,Yes,4-5,No,35+,3.0,Maybe
+2026/04/16 1:01:36 PM GMT+5:30,16-20,Full time working,6-9,4+,0-20,Sometimes,4-5,Sometimes,<6,9.0,Yes (Negatively)
+2026/04/16 1:01:53 PM GMT+5:30,30+,Full time working,9+,4+,21-50,Sometimes,6-7,Sometimes,35+,9.0,Yes (Positively)
+2026/04/16 1:02:10 PM GMT+5:30,21-25,Full time working,0-3,2-3,21-50,Yes,5-6,No,6-15,1.0,Maybe
+2026/04/16 1:02:27 PM GMT+5:30,21-25,Full time working,0-3,4+,51-100,No,5-6,No,25-35,2.0,Yes (Negatively)
+2026/04/16 1:02:45 PM GMT+5:30,26-30,Part - time working,9+,1-2,100+,Sometimes,5-6,Yes,35+,2.0,Yes (Positively)
+2026/04/16 1:03:01 PM GMT+5:30,21-25,Other,9+,4+,51-100,Yes,6-7,Yes,25-35,7.0,Maybe
+2026/04/16 1:03:18 PM GMT+5:30,16-20,Full time working,3-6,4+,100+,Yes,5-6,Yes,<6,3.0,Yes (Positively)
+2026/04/16 1:03:35 PM GMT+5:30,30+,Other,0-3,3-4,100+,Sometimes,5-6,No,25-35,5.0,No
+2026/04/16 1:03:52 PM GMT+5:30,21-25,Part - time working,0-3,0-1,51-100,Sometimes,4-5,Yes,35+,3.0,Yes (Negatively)
+2026/04/16 1:04:10 PM GMT+5:30,16-20,Part - time working,6-9,2-3,100+,No,6-7,Sometimes,6-15,3.0,Yes (Positively)
+2026/04/16 1:04:27 PM GMT+5:30,30+,Other,6-9,1-2,100+,Yes,6-7,Yes,6-15,4.0,No
+2026/04/16 1:04:43 PM GMT+5:30,30+,Full time working,6-9,4+,0-20,Yes,4-5,No,6-15,4.0,Yes (Negatively)
+2026/04/16 1:05:00 PM GMT+5:30,21-25,Other,0-3,1-2,21-50,Yes,4-5,Sometimes,25-35,7.0,Yes (Negatively)
+2026/04/16 1:05:18 PM GMT+5:30,21-25,Full time working,9+,3-4,21-50,Yes,4-5,Sometimes,<6,8.0,Yes (Positively)
+2026/04/16 1:05:35 PM GMT+5:30,30+,Full time working,3-6,2-3,100+,Sometimes,6-7,No,<6,9.0,Yes (Positively)
+2026/04/16 1:05:52 PM GMT+5:30,21-25,Other,3-6,4+,51-100,Yes,5-6,Sometimes,25-35,7.0,No
+2026/04/16 1:06:09 PM GMT+5:30,21-25,Student,3-6,3-4,0-20,No,4-5,No,15-25,7.0,No
+2026/04/16 1:06:26 PM GMT+5:30,30+,Full time working,0-3,3-4,100+,Yes,6-7,Sometimes,15-25,1.0,Maybe
+2026/04/16 1:06:43 PM GMT+5:30,26-30,Part - time working,6-9,0-1,0-20,Sometimes,7+,No,15-25,10.0,Maybe
+2026/04/16 1:07:00 PM GMT+5:30,16-20,Other,0-3,1-2,21-50,No,7+,Sometimes,6-15,4.0,Yes (Negatively)
+2026/04/16 1:07:17 PM GMT+5:30,30+,Student,9+,3-4,51-100,No,7+,Sometimes,35+,1.0,Yes (Positively)
+2026/04/16 1:07:34 PM GMT+5:30,16-20,Part - time working,3-6,0-1,21-50,No,6-7,Sometimes,35+,7.0,Yes (Positively)
+2026/04/16 1:07:52 PM GMT+5:30,26-30,Part - time working,3-6,2-3,100+,No,7+,Sometimes,15-25,5.0,Maybe
+2026/04/16 1:08:09 PM GMT+5:30,16-20,Part - time working,9+,0-1,0-20,Yes,4-5,Yes,25-35,9.0,Yes (Negatively)
+2026/04/16 1:08:25 PM GMT+5:30,26-30,Part - time working,3-6,2-3,51-100,Sometimes,7+,No,35+,6.0,No
+2026/04/16 1:08:42 PM GMT+5:30,21-25,Full time working,9+,1-2,51-100,Sometimes,4-5,Sometimes,<6,8.0,Yes (Positively)
+2026/04/16 1:09:00 PM GMT+5:30,16-20,Full time working,9+,1-2,100+,No,4-5,Sometimes,25-35,3.0,Maybe
+2026/04/16 1:09:17 PM GMT+5:30,30+,Other,9+,4+,0-20,Yes,4-5,Sometimes,6-15,8.0,Maybe
+2026/04/16 1:09:34 PM GMT+5:30,30+,Part - time working,9+,4+,51-100,Sometimes,4-5,Sometimes,15-25,3.0,Yes (Positively)
+2026/04/16 1:09:51 PM GMT+5:30,30+,Student,3-6,0-1,100+,No,7+,Sometimes,25-35,2.0,Yes (Positively)
+2026/04/16 1:10:08 PM GMT+5:30,26-30,Other,6-9,0-1,100+,Sometimes,4-5,Yes,35+,1.0,Maybe
+2026/04/16 1:10:25 PM GMT+5:30,21-25,Full time working,0-3,0-1,21-50,No,6-7,No,15-25,1.0,No
+2026/04/16 1:10:42 PM GMT+5:30,16-20,Other,0-3,0-1,100+,Yes,7+,Sometimes,25-35,5.0,Yes (Negatively)
+2026/04/16 1:11:01 PM GMT+5:30,30+,Other,6-9,2-3,51-100,Sometimes,4-5,Sometimes,<6,10.0,Yes (Negatively)
+2026/04/16 1:11:34 PM GMT+5:30,30+,Student,0-3,1-2,51-100,Yes,7+,No,25-35,1.0,Yes (Negatively)
+2026/04/16 1:11:50 PM GMT+5:30,16-20,Other,9+,3-4,21-50,Sometimes,7+,Sometimes,<6,9.0,Maybe
+2026/04/16 1:12:07 PM GMT+5:30,21-25,Part - time working,9+,0-1,100+,No,6-7,No,35+,5.0,Yes (Negatively)
+2026/04/16 1:12:24 PM GMT+5:30,26-30,Other,0-3,2-3,100+,No,6-7,Sometimes,15-25,1.0,No
+2026/04/16 1:12:42 PM GMT+5:30,21-25,Part - time working,6-9,2-3,0-20,Yes,6-7,Sometimes,25-35,6.0,Yes (Negatively)
+2026/04/16 1:12:59 PM GMT+5:30,21-25,Part - time working,6-9,4+,21-50,Yes,5-6,No,15-25,8.0,No
+2026/04/16 1:13:16 PM GMT+5:30,30+,Part - time working,0-3,1-2,0-20,No,4-5,Sometimes,35+,8.0,Yes (Negatively)
+2026/04/16 1:13:33 PM GMT+5:30,26-30,Other,0-3,2-3,0-20,No,5-6,No,35+,9.0,Yes (Positively)
+2026/04/16 1:13:51 PM GMT+5:30,26-30,Other,3-6,0-1,21-50,Sometimes,6-7,Yes,<6,4.0,Yes (Negatively)
+2026/04/16 1:14:24 PM GMT+5:30,16-20,Student,0-3,4+,21-50,No,4-5,Yes,6-15,4.0,Yes (Positively)
+2026/04/16 1:14:41 PM GMT+5:30,16-20,Other,9+,4+,21-50,Yes,5-6,No,<6,1.0,No
+2026/04/16 1:14:59 PM GMT+5:30,26-30,Student,9+,3-4,21-50,Sometimes,5-6,Yes,25-35,4.0,No
+2026/04/16 1:15:15 PM GMT+5:30,21-25,Part - time working,6-9,3-4,51-100,Sometimes,7+,Sometimes,<6,2.0,Yes (Negatively)
+2026/04/16 1:15:32 PM GMT+5:30,30+,Student,3-6,3-4,0-20,Yes,7+,No,<6,9.0,Yes (Positively)
+2026/04/16 1:15:49 PM GMT+5:30,16-20,Other,3-6,3-4,0-20,Yes,7+,Yes,15-25,3.0,No
+2026/04/16 1:16:07 PM GMT+5:30,26-30,Student,3-6,3-4,51-100,Sometimes,4-5,Sometimes,35+,10.0,Yes (Negatively)
+2026/04/16 1:16:24 PM GMT+5:30,16-20,Student,6-9,0-1,51-100,Sometimes,7+,Yes,25-35,1.0,Yes (Positively)
+2026/04/16 1:16:41 PM GMT+5:30,16-20,Other,9+,0-1,51-100,Sometimes,4-5,Yes,35+,9.0,Yes (Negatively)
+2026/04/16 1:16:59 PM GMT+5:30,21-25,Student,3-6,3-4,0-20,No,7+,Sometimes,<6,3.0,Yes (Negatively)
+2026/04/16 1:17:32 PM GMT+5:30,30+,Student,6-9,1-2,100+,Yes,4-5,Sometimes,35+,3.0,Yes (Positively)
+2026/04/16 1:17:49 PM GMT+5:30,26-30,Full time working,3-6,0-1,21-50,No,4-5,No,35+,8.0,No
+2026/04/16 1:18:06 PM GMT+5:30,16-20,Student,6-9,0-1,100+,Yes,6-7,Yes,<6,5.0,Maybe
+2026/04/16 1:18:23 PM GMT+5:30,21-25,Other,9+,0-1,100+,Yes,4-5,Sometimes,<6,6.0,No
+2026/04/16 1:18:41 PM GMT+5:30,26-30,Other,6-9,0-1,21-50,Sometimes,7+,Yes,6-15,7.0,Yes (Positively)
+2026/04/16 1:18:57 PM GMT+5:30,16-20,Other,6-9,2-3,21-50,Yes,5-6,No,15-25,6.0,Yes (Positively)
+2026/04/16 1:19:14 PM GMT+5:30,26-30,Other,3-6,3-4,21-50,Sometimes,7+,Sometimes,6-15,7.0,Maybe
+2026/04/16 1:19:33 PM GMT+5:30,30+,Other,3-6,1-2,51-100,Sometimes,7+,No,35+,2.0,Yes (Positively)
+2026/04/16 1:20:06 PM GMT+5:30,26-30,Other,3-6,4+,51-100,Yes,6-7,Yes,6-15,5.0,No
+2026/04/16 1:20:23 PM GMT+5:30,30+,Other,6-9,2-3,51-100,Yes,4-5,Yes,6-15,7.0,Yes (Negatively)
+2026/04/16 1:20:40 PM GMT+5:30,21-25,Part - time working,9+,1-2,0-20,No,6-7,No,<6,8.0,Yes (Negatively)
+2026/04/16 1:20:57 PM GMT+5:30,30+,Other,3-6,2-3,51-100,No,4-5,No,<6,1.0,Yes (Negatively)
+2026/04/16 1:21:14 PM GMT+5:30,26-30,Other,6-9,2-3,0-20,No,4-5,Sometimes,35+,10.0,No
+2026/04/16 1:21:31 PM GMT+5:30,16-20,Other,6-9,2-3,100+,Yes,7+,Yes,15-25,6.0,No
+2026/04/16 1:21:49 PM GMT+5:30,21-25,Part - time working,3-6,3-4,51-100,Sometimes,7+,Sometimes,6-15,3.0,Yes (Negatively)
+2026/04/16 1:22:06 PM GMT+5:30,30+,Full time working,6-9,3-4,21-50,Sometimes,5-6,Sometimes,15-25,1.0,No
+2026/04/16 1:22:22 PM GMT+5:30,21-25,Other,3-6,4+,21-50,No,4-5,No,<6,6.0,No
+2026/04/16 1:22:39 PM GMT+5:30,26-30,Other,0-3,4+,21-50,No,5-6,Yes,15-25,4.0,Maybe
+2026/04/16 1:22:56 PM GMT+5:30,30+,Student,6-9,3-4,51-100,Yes,5-6,Yes,6-15,7.0,Maybe
+2026/04/16 1:23:15 PM GMT+5:30,21-25,Part - time working,0-3,2-3,100+,Sometimes,7+,Sometimes,6-15,1.0,Yes (Negatively)
