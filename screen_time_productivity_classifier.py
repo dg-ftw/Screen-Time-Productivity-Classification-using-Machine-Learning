@@ -1,7 +1,3 @@
-# =============================================================================
-# CS106: Basics of Machine Learning & Applications
-# FINAL PROJECT FILE (FIXED & STABLE v3)
-# =============================================================================
 
 import pandas as pd
 import numpy as np
